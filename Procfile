@@ -1,0 +1,1 @@
+addspammer: python bot.py
