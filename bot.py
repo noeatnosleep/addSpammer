@@ -12,7 +12,7 @@ config = {
     "username": os.environ.get("username"),
     "password": os.environ.get("password"),
     "last_run": 0,
-    "baduser_fair": os.environ.get("baduser_fair"),
+    "baduser_flair": os.environ.get("baduser_flair"),
     "config_sub": os.environ.get("config_sub"),
     "config_post_id": os.environ.get("config_post_id"),
     "config_wiki_page": os.environ.get("config_wiki_page"),
